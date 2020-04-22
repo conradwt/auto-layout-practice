@@ -42,4 +42,4 @@ Auto Layout Practice is released under the [MIT license](https://mit-license.org
 
 ## Copyright
 
-copyright:: (c) Copyright 2019 Conrad Taylor. All Rights Reserved.
+copyright:: (c) Copyright 2020 Conrad Taylor. All Rights Reserved.
