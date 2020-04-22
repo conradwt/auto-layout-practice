@@ -1,10 +1,45 @@
-# Auto-Layout-Practice
+# Auto Layout Practice
 
-Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | Auto Layout Practice App
+<Project Description>
 
-Beginner: Download the starter project files as .zip and extract the files to your desktop.
+## Getting Started
 
-Pro: Git clone to your Xcode projects folder.
+## Software requirements
 
-Copyright © The App Brewery
+- Xcode 11.4.1 or higher
 
+- iOS 13.4.1 or higher
+
+- Swift 5.2 or higher
+
+## Navigate to the iOS application
+
+```
+$ cd /path/to/ios/application
+```
+
+## Starting the application
+
+```zsh
+open *.xcodeproj
+```
+
+Followed by
+
+```text
+Command + R
+```
+
+## Support
+
+Bug reports and feature requests can be filed with the rest for the Ruby on Rails project here:
+
+- [File Bug Reports and Features](https://github.com/conradwt/auto-layout-practice/issues)
+
+## License
+
+Auto Layout Practice is released under the [MIT license](https://mit-license.org).
+
+## Copyright
+
+copyright:: (c) Copyright 2019 Conrad Taylor. All Rights Reserved.
